@@ -1,0 +1,17 @@
+48,Kalpesh Deore,43117,BE 2,Yes,IT
+49,Mihir Kulkarni,43132,BE 2,Yes,IT
+50,Sanjana Salunkhe,43152,BE 2,Yes,IT
+51,Vipul Shinde,43155,BE 2,Yes,IT
+52,Shreyas Agrawal,43157,BE 2,Yes,IT
+53,Abhishek Velankar,43163,BE 2,Yes,IT
+54,Puneet Dhanuka,43220,BE 2,Yes,IT
+55,Aditya Avhad,43307,BE 2,Yes,IT
+56,Dhruv Nadkar,43322,BE 2,Yes,IT
+57,Shyam Deshmukh,43327,BE 2,Yes,IT
+58,Roshan Jain,43335,BE 2,Yes,IT
+59,Aditya Khaire,43339,BE 2,Yes,IT
+60,Shubham Nemade,43347,BE 2,Yes,IT
+61,Pooja Salve,43356,BE 2,Yes,IT
+62,Sakshi Malani,43363,BE 2,Yes,IT
+65,Prathmesh Kulkarni,43233,BE 2,,IT
+66,Priyanka  Laxminiwas Mallawat,43343,BE 2,,IT
